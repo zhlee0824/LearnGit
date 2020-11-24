@@ -1,3 +1,7 @@
 1
 
 append modify 2
+
+append 3rd line in local
+
+append 4rd line in local now
